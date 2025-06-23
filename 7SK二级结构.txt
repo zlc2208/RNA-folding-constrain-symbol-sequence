@@ -1,0 +1,16 @@
+GGAUGUGAGGGCGAUCUGGCUGCGACAUCUGUCACCCCAUUGAUCGCCAGGGUUGAUUCGGCUGAUCUGGCUGGCUAGGCGGGUGUCCCCUUCCUCCCUCACCGCUCCAUGUGCGUCCCUCCCGAAGCUGCGCGCUCGGUCGAAGAGGACGACCAUCCCCGAUAGAGGAGGACCGGUCUUCGGUCAAGGGUAUACGAGUAGCUGCGCUCCCCUGCUAGAACCUCCAAACAAGCUCUCAAGGUCCAUUUGUAGGAGAACGUAGGGUAGUCAAGCUUCCAAGACUCCAGACACAUCCAAAUGAGGCGCUGCAUGUGGCAGUCUGCCUUUCUUUU
+.......................(((((((...xxx(((xx(((((((xxxxxxxxxxx)))x)))))))xxxxxxx...))))))).....................................................................................................................................................................................................................................................
+len_all = 332
+index_pairs = {
+    1: [np.arange(24, 31), np.arange(81, 88)],
+    2: [np.arange(37, 40), np.arange(68, 71)],
+    3: [np.arange(42, 46), np.arange(64, 68)],
+    4: [np.arange(46, 49), np.arange(60, 63)],
+}
+index_unpaired = {
+    1: np.arange(34, 38),
+    2: np.arange(40, 42),
+    3: np.arange(49, 60),
+    4: np.arange(63, 64),
+    5: np.arange(71, 78),
+}
