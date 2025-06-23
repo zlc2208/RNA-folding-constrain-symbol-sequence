@@ -1,0 +1,1 @@
+The code later iterates over these indices to determine how to represent each position with a symbol (using "(", ")", "x", or "."), depending on whether the index falls into one of the paired or unpaired groups defined by index_pairs and index_unpaired.
